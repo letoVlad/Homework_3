@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Задание 1");
         int people = 18;
-        if (people >= 18) {
+        if (people >=  18) {
             System.out.println("Поздравляю,с Совершенолетием");
         } else {
             System.out.println("Вам стоит ещё подождать");
